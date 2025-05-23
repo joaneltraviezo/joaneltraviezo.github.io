@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    display: flex;
+    background-color: #f5f5f5;
+  }
+  
+  .sidebar {
+    background-color: #dff3e3;
+    width: 30%;
+    padding: 30px;
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  .sidebar img {
+    width: 150px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .main {
+    background-color: #ffffff;
+    width: 70%;
+    padding: 30px;
+    box-sizing: border-box;
+  }
+  
+  h1, h2 {
+    color: #004d26;
+    margin-bottom: 10px;
+  }
+  
+  h1 span {
+    font-size: 16px;
+    display: block;
+    color: #000;
+  }
+  
+  .section {
+    margin-bottom: 25px;
+  }
+  
+  .contacto, .habilidades {
+    text-align: left;
+  }
+  
+  ul {
+    padding-left: 20px;
+  }
+  
+  .section ul li {
+    margin-bottom: 6px;
+  }
+  
